@@ -1,0 +1,11 @@
+Counts:
+iupui.edu 497
+umich.edu 433
+indiana.edu 157
+caret.cam.ac.uk 140
+uct.ac.za 95
+vt.edu 78
+media.berkeley.edu 41
+ufp.pt 28
+gmail.com 25
+et.gatech.edu 17
